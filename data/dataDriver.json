@@ -1,0 +1,59 @@
+{
+  "data": {
+    "boards": [
+      {
+        "items": [
+          {
+            "id": "939948325",
+            "name": "GE 4567889",
+            "subitems": [
+              {
+                "id": "1879863460",
+                "name": "Responsable véhicule : Maxime Fontaines",
+                "column_values": [
+                  {
+                    "title": "Nom/prénom",
+                    "text": "Libre Service"
+                  },
+                  {
+                    "title": "Téléphone",
+                    "text": "41276519164"
+                  },
+                  {
+                    "title": "E-mail",
+                    "text": "m.fontainesd@lift.ch"
+                  },
+                  {
+                    "title": "Langue",
+                    "text": null
+                  },
+                  {
+                    "title": "Zone de travail",
+                    "text": "Bottens"
+                  },
+                  {
+                    "title": "Site succursale",
+                    "text": "Palézieux"
+                  },
+                  {
+                    "title": "Département",
+                    "text": "SAV"
+                  },
+                  {
+                    "title": "Habitation",
+                    "text": ""
+                  },
+                  {
+                    "title": "Permis",
+                    "text": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "account_id": 7650323
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "boards": [
+      {
+        "items": [
+          {
+            "id": "939948275",
+            "name": "GE 123201",
+            "column_values": [
+              {
+                "title": "Modèle",
+                "text": "Volkswagen California"
+              },
+              {
+                "title": "Sous-éléments",
+                "text": "Coordonnées du chauffeur"
+              },
+              {
+                "title": "Nom/prénom",
+                "text": "Schmidt Alain"
+              },
+              {
+                "title": "Numéro de véhicule interne entreprise",
+                "text": ""
+              },
+              {
+                "title": "Numéro de châssis",
+                "text": "WV1 ZZZ 2KZ KY0 417 46"
+              },
+              {
+                "title": "Code carte carburant /carte",
+                "text": "12"
+              },
+              {
+                "title": "Service inclus",
+                "text": "Non"
+              },
+              {
+                "title": "Garantie",
+                "text": "assurance garantie Amag/Zurich jusqu'à 200'000km / 12.23"
+              },
+              {
+                "title": "Propriétaire",
+                "text": "Raiffeisen"
+              },
+              {
+                "title": "1er mise en circulation",
+                "text": "2018-12-04"
+              },
+              {
+                "title": "Km actuel",
+                "text": "104626"
+              },
+              {
+                "title": "Date dernier check-up",
+                "text": "2022-03-31"
+              },
+              {
+                "title": "Statut état du VHC",
+                "text": "Ok rien à faire"
+              },
+              {
+                "title": "Remarques, à faire",
+                "text": "En ordre"
+              },
+              {
+                "title": "Notes générales sur le véhicule (ne pas faire)",
+                "text": "Véhicule fumeur et peu soigné, divers traces carrosserie et dégât av. dr."
+              },
+              {
+                "title": "Document en cours",
+                "text": ""
+              },
+              {
+                "title": "Garage référence",
+                "text": ""
+              },
+              {
+                "title": "Début du rdv",
+                "text": ""
+              },
+              {
+                "title": "Fin du rdv",
+                "text": ""
+              },
+              {
+                "title": "Rendez-vous prévu chez",
+                "text": ""
+              },
+              {
+                "title": "Google Calendar event",
+                "text": ""
+              },
+              {
+                "title": "Échéances à traiter",
+                "text": ""
+              },
+              {
+                "title": "Pneus montés",
+                "text": "pneus été"
+              },
+              {
+                "title": "Dimension été",
+                "text": "195/65 R15 91T"
+              },
+              {
+                "title": "Dimension hiver",
+                "text": "195/65 R15 95T  195/65 R15 91T"
+              },
+              {
+                "title": "Localisation des pneus",
+                "text": ""
+              },
+              {
+                "title": "Nom assurance",
+                "text": "Vaudoise"
+              },
+              {
+                "title": "Couverture assurance + franchise",
+                "text": ""
+              },
+              {
+                "title": "Police d'assurance",
+                "text": ""
+              },
+              {
+                "title": "Assistance",
+                "text": null
+              },
+              {
+                "title": "Prochain service km",
+                "text": "114000"
+              },
+              {
+                "title": "Km restant jusqu'au service",
+                "text": ""
+              },
+              {
+                "title": "Date du prochain service",
+                "text": "2023-09-26"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "account_id": 7650323
+}
